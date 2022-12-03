@@ -23,10 +23,6 @@ List of commands for tests
 - Register user in the database
 - Log error messages to the database
 
-## Documentation
-
-[Developing](https://)
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
